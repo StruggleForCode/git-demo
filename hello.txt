@@ -1,6 +1,6 @@
-Hello Git! Hello HuaWei! 22222222222
+Hello Git! Hello HuaWei! 22222
 Hello Git! Hello HuaWei!
-Hello Git! Hello HuaWei! 33333333333
+Hello Git! Hello HuaWei! 33333
 Hello Git! Hello HuaWei!
 Hello Git! Hello HuaWei!
 Hello Git! Hello HuaWei!
